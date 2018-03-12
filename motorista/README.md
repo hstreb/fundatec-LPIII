@@ -13,10 +13,12 @@ Valor da corrida = quantidade de minutos * valor do minuto + quantidade de km * 
 
 o programa possui previamente cadastrado os seguintes valores:
 
+```
 <passageiro>;<km rodados>;<quantidade de minutos>
 joao;6.7;17
 pedro;3.1;11
 maria;3.0;34
+```
 
 o sistema deve imprimir:
 > O motorista deve receber: 33.56
