@@ -18,7 +18,8 @@ Digitar o nome do funcionário:
 
 Digitar a quantidade de horas:
 > 180
-joao 180 1000.0
+
+> joao 180 1000.0
 
 
 
